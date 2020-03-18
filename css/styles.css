@@ -1,0 +1,61 @@
+html,
+body {
+  height: 100%;  
+}
+
+body {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #31064d;
+}
+
+img {
+    max-width: 5rem;
+    height: auto;
+}
+
+hr.red {
+    border-top: 3px solid red;
+}
+
+hr.orange {
+    border-top: 3px solid orange;
+}
+
+hr.yellow {
+    border-top: 3px solid yellow;
+}
+
+hr.green {
+    border-top: 3px solid green;
+}
+
+hr.blue {
+    border-top: 3px solid blue;
+}
+
+hr.purple {
+    border-top: 3px solid purple;
+}
+
+.link-decoration {
+    text-decoration: none !important;
+    color: #31064d;
+}
+
+.col-hr {
+    padding: inherit !important;
+}
+
+.card {
+    border-radius: 0.5rem;
+}
+
+.img-icon {
+    max-width: 1rem;
+    height: auto;
+}
