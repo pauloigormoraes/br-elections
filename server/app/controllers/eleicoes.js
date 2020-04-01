@@ -29,7 +29,7 @@ function __create__bens__candidatos(req, res, next) {
 }
 
 function __create__candidatos(req, res, next) {
-    services.__create__candidatos(req.body.page, req.body.size)
+    services.loading__data(req.body.page, req.body.size)
         .then(response => res.json(response))
         .catch(err => next(err))
 }
