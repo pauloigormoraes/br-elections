@@ -1,0 +1,150 @@
+@media only screen and (max-device-width: 900px) {
+  .justify-content-end { 
+    display: none;
+  }
+  .mt-response {
+    margin-top: 2rem !important;
+  }
+  .mt-menu {
+    margin-top: 1rem !important;
+  }
+  .dropdown {
+    display: inline !important;
+  }
+  .mt-menu-name {
+    margin-top: -2.5rem !important;
+  }
+  .btn {
+    background-color: white !important;
+    color: #292929 !important;
+    border-radius: 0% !important;
+  }
+}
+
+.mt-menu-name {
+  margin-top: 2rem;
+}
+
+.dropdown {
+  display: none;
+}
+
+/* ----------------- */
+
+.App {
+  text-align: center;
+}
+
+.card {
+  border-radius: 0% !important;
+}
+
+.text-menu-name {
+  background-color: whitesmoke;
+  color: #292929;
+  font-size: 1.3rem;
+  padding: 0px 1rem 0px 1rem;
+}
+
+.text-menu-name-dark {
+  background-color: #292929;
+  color: whitesmoke;
+  font-size: 1.3rem;
+  padding: 0px 1rem 0px 1rem;
+}
+
+.content-menu {
+  margin: 1rem;
+}
+
+a {
+  color: whitesmoke;
+}
+
+a:hover {
+  color: rgb(109, 109, 109);
+}
+
+.link-dark {
+  color: #292929 !important;
+}
+
+.text-color {
+  color: whitesmoke;
+}
+
+.Menu-logo {
+  height: 30vmin;
+  pointer-events: none;
+}
+
+.hr-color {
+  border: 1px solid rgb(53, 53, 53);
+}
+
+ul {
+  list-style-type: none
+}
+
+/* ------------------ HOME ------------------- */
+
+.no-line {
+  text-decoration: none !important;
+}
+
+.content-body {
+  height: 100%;  
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.img-home {
+    max-width: 5rem;
+    height: auto;
+}
+
+hr.red {
+    border-top: 3px solid red;
+}
+
+hr.orange {
+    border-top: 3px solid orange;
+}
+
+hr.yellow {
+    border-top: 3px solid yellow;
+}
+
+hr.green {
+    border-top: 3px solid green;
+}
+
+hr.blue {
+    border-top: 3px solid blue;
+}
+
+hr.purple {
+    border-top: 3px solid purple;
+}
+
+.link-decoration {
+    text-decoration: none !important;
+    color: #31064d;
+}
+
+.col-hr {
+    padding: inherit !important;
+}
+
+.card {
+    border-radius: 0.5rem;
+}
+
+.img-icon {
+    max-width: 1rem;
+    height: auto;
+}
