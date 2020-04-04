@@ -20,7 +20,7 @@
         "group-array": "^1.0.0",
         "jsonwebtoken": "^8.5.1",
         "mongodb": "^3.0.10",
-        "mongoose": "^5.7.1",
+        "mongoose": "^5.7.5",
         "node-pre-gyp": "^0.13.0",
         "nodemon": "^2.0.2",
         "request": "^2.88.0",
