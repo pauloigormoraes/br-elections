@@ -15,7 +15,7 @@
         "cors": "^2.8.4",
         "create-file": "^1.0.1",
         "express": "^4.16.3",
-        "express-fileupload": "^1.1.6",
+        "express-fileupload": "^1.1.9",
         "express-jwt": "^5.3.1",
         "group-array": "^1.0.0",
         "jsonwebtoken": "^8.5.1",
